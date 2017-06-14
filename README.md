@@ -14,7 +14,7 @@ EDUCATIONAL QUALIFICATION:
        •  Pursuing BE-Electronics and Communication Engineering in K.S.R. College of Engineering
           With a CGPA of 7.84 (up to VIIth semester).
        •  Completed Higher Secondary in Government Boys Higher Secondary School, Pallipalayam
-	      in 2013 With 83%.
+	  in 2013 With 83%.
        •  Completed SSLC in Government Boys Higher Secondary School, Pallipalayam in 2011 with 93%.
 	   
 SOFTWARE SKILLS:
@@ -50,12 +50,12 @@ HOBBIES AND INTEREST:
 	   
 PERSONAL INFO:
 • D.O.B         	: 10.06.1995
-• Father’s Name	    : Mr. R. Senthil
+• Father’s Name	        : Mr. R. Senthil
 • Mother's Name 	: Mrs.S.Maadhu
 • Languages known	: Tamil, English, Hindi(Read)
 • Address	        : No:23/A,Gandhipuram 3rd street,
-                      Avarangadu,Palliapalyam,
-                      Namakkal-638006.
+                          Avarangadu,Palliapalyam,
+                          Namakkal-638006.
 
 
 
